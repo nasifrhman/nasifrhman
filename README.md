@@ -1,16 +1,25 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Nasifur Rahman</h1>
 
-<!--
-**Nasif09/Nasif09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on MERN & ASP.Net Core Framework
+- 🌱 I’m currently learning Tailwindcss & Next.js
+- 📫 How to reach me: mdnasifurahman@gmail.com
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/axiftaj">
+    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/nasif09/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nodejs,nestjs,nextjs,php,jquery,ts,bootstrap,tailwind,mongodb,mysql,postgres,firebase,github,git,postman)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&theme=dark)
+
+
+<br>
