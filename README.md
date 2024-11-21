@@ -17,7 +17,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nodejs,nestjs,nextjs,php,jquery,ts,bootstrap,tailwind,mongodb,mysql,postgres,firebase,github,git,postman)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=dark)
+![Nasif Rahman GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&theme=dark)
 
