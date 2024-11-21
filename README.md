@@ -9,7 +9,7 @@
   <a href="https://github.com/axiftaj">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/nasif09/">
+   <a href="https://www.linkedin.com/in/iamnasifur/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
