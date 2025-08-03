@@ -1,66 +1,96 @@
-<h1 align="center">Hi 👋, I'm Nasifur Rahman</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Full-Stack+Developer;MERN+%26+ASP.NET+Core+Expert;Lifelong+Learner+%E2%9C%8C%EF%B8%8F;Passionate+About+Clean+Code+%26+Architecture" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Nasifur Rahman
+</h1>
+<h3 align="center">Backend Developer | MERN & ASP.NET Core | DevOps Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **MERN stack** and **ASP.NET Core Framework**
-- 🌱 I’m currently learning **Tailwind CSS** and **Next.js**
-- 💬 Ask me about: Full-Stack Development, REST APIs, Scalable System Design
-- 📫 Reach me at: **mdnasifurahman@gmail.com**
-- ⚡ Fun fact: I believe in solving problems, not just writing code.
+<p align="center">
+  <strong>Backend Developer</strong> with a strong foundation in <code>MERN Stack</code> and <code>ASP.NET Core</code>.<br/>
+  Currently diving deeper into <strong>DevOps</strong> — mastering <code>Docker</code>, setting up <code>CI/CD</code> pipelines, and deploying systems on <code>AWS</code>.<br/>
+  Passionate about system design, API architecture, and clean, maintainable code.
+</p>
+
+<table align="center">
+  <tr>
+    <td><strong>💻 Tech Focus</strong></td>
+    <td>Node.js, .NET Core, MongoDB, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>🧰 DevOps</strong></td>
+    <td>Docker, GitHub Actions, AWS (EC2, S3), CI/CD</td>
+  </tr>
+  <tr>
+    <td><strong>📍 Location</strong></td>
+    <td>Bangladesh — Open to remote work</td>
+  </tr>
+  <tr>
+    <td><strong>📬 Contact</strong></td>
+    <td><a href="mailto:nasifurahman@gmail.com">nasifurahman@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect with Me
-
+### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://github.com/Nasif09">
-    <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Nasif09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/iamnasifur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/iamnasifur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,tailwind,bootstrap,jquery,dotnet,php,mongodb,mysql,postgres,firebase,postman,git,github,vscode" />
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 Currently Exploring:
+- 🔹 Docker containerization & orchestration  
+- 🔹 CI/CD pipelines with GitHub Actions  
+- 🔹 AWS (EC2, S3, Route53) deployment  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
+### 🔥 Contribution Graph:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nasif09&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasif09&theme=tokyo-night" />
 </p>
 
 ---
 
-### 📊 GitHub Contribution Graph
-
+### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasif09&theme=react-dark&hide_border=false" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nasif09&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-### 🧠 Tech Stack Summary
+
+### 🤝 Let's Collaborate:
+> Let’s build something impactful together! 🚀
+
+---
+
+
+
+
+
+
 
