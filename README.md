@@ -1,25 +1,50 @@
- <h1 align="center">Hi 👋, I'm Nasifur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Nasifur Rahman</h1>
+<h3 align="center">Full Stack Developer | MERN & ASP.NET Core Enthusiast</h3>
 
-- 🔭 I’m currently working on MERN & ASP.Net Core Framework
-- 🌱 I’m currently learning Tailwindcss & Next.js
-- 📫 How to reach me: mdnasifurahman@gmail.com
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/axiftaj">
-    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+---
+
+🚀 I’m currently working with **MERN Stack** & **ASP.NET Core**  
+📚 Learning **Tailwind CSS** & **Next.js**  
+📬 Reach me at: [nasifurahman@gmail.com](mailto:nasifurahman@gmail.com)
+
+---
+
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://github.com/Nasif09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-   <a href="https://www.linkedin.com/in/iamnasifur/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/iamnasifur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+</p>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,express,react,nodejs,nestjs,nextjs,php,jquery,ts,bootstrap,tailwind,mongodb,mysql,postgres,firebase,github,git,postman)](https://skillicons.dev)
+---
 
-![Nasif Rahman GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=dark)
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,express,react,nodejs,nestjs,nextjs,php,jquery,ts,bootstrap,tailwind,mongodb,mysql,postgres,firebase,github,git,postman" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&theme=dark)
+---
 
+### 📊 GitHub Stats:
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&layout=compact&theme=tokyonight" />
+</p>
 
-<br>
+---
+
+### 🧠 Currently Exploring:
+- 📌 Advanced **DevOps** with CI/CD  
+- 📌 Scalable API design patterns  
+- 📌 Microservices & Authentication Systems
+
+---
+
+### 📫 Let's Collaborate:
+If you’re looking for someone passionate about tech, performance, and clean code — let’s connect!
+
+---
+
