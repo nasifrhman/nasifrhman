@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><strong>📬 Contact</strong></td>
-    <td><a href="mailto:nasifurahman@gmail.com">nasifurahman@gmail.com</a></td>
+    <td><a href="mailto:mdnasifurahman@gmail.com">mdnasifurahman@gmail.com</a></td>
   </tr>
 </table>
 
@@ -36,9 +36,6 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://github.com/Nasif09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/iamnasifur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
