@@ -1,12 +1,36 @@
-<h1 align="center">Hi 👋, I'm Nasifur Rahman</h1>
-<h3 align="center">Backend Developer | MERN & ASP.NET Core | DevOps Learner</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Nasifur Rahman
+</h1>
+<h3 align="center">Backend Developer | MERN & ASP.NET Core | DevOps Enthusiast</h3>
 
 ---
 
-🚀 I’m currently working as a **Backend Developer**  
-🧠 Learning & building with **Docker**, **CI/CD**, and **AWS**  
-📌 Exploring **DevOps**, scalable system architecture & microservices  
-📫 Reach me: [nasifurahman@gmail.com](mailto:nasifurahman@gmail.com)
+### 👨‍💻 About Me
+
+<p align="center">
+  <strong>Backend Developer</strong> with a strong foundation in <code>MERN Stack</code> and <code>ASP.NET Core</code>.<br/>
+  Currently diving deeper into <strong>DevOps</strong> — mastering <code>Docker</code>, setting up <code>CI/CD</code> pipelines, and deploying systems on <code>AWS</code>.<br/>
+  Passionate about system design, API architecture, and clean, maintainable code.
+</p>
+
+<table align="center">
+  <tr>
+    <td><strong>💻 Tech Focus</strong></td>
+    <td>Node.js, .NET Core, MongoDB, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>🧰 DevOps</strong></td>
+    <td>Docker, GitHub Actions, AWS (EC2, S3), CI/CD</td>
+  </tr>
+  <tr>
+    <td><strong>📍 Location</strong></td>
+    <td>Bangladesh — Open to remote work</td>
+  </tr>
+  <tr>
+    <td><strong>📬 Contact</strong></td>
+    <td><a href="mailto:nasifurahman@gmail.com">nasifurahman@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 
@@ -24,8 +48,17 @@
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,express,react,nodejs,nestjs,nextjs,php,jquery,ts,js,bootstrap,tailwind,mongodb,mysql,postgres,firebase,github,git,postman,docker,aws,vercel,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" />
 </p>
+
+---
+
+### 🧠 Currently Exploring:
+- 🔹 Docker containerization & orchestration  
+- 🔹 CI/CD pipelines with GitHub Actions  
+- 🔹 AWS (EC2, S3, Route53) deployment  
+- 🔹 Microservices & API Gateway patterns  
+- 🔹 Infrastructure as Code (Terraform – learning phase)  
 
 ---
 
@@ -44,33 +77,25 @@
 
 ---
 
-### 🧠 Currently Exploring:
-- ✅ Docker containerization and orchestration
-- ✅ Building CI/CD pipelines with GitHub Actions
-- ✅ Deploying microservices on AWS (EC2, S3, Route53)
-- ✅ Infrastructure as Code (IaC) basics with Terraform
-- ✅ Designing secure REST APIs and scalable backends
-
----
-
-### 💡 Featured Tools & Platforms:
-- ⚙️ Backend: `Node.js`, `ASP.NET Core`, `NestJS`
-- 💻 Frontend: `React`, `Next.js`, `Tailwind CSS`
-- 🛢️ Database: `MongoDB`, `PostgreSQL`, `MySQL`
-- 🧰 Tools: `Docker`, `Postman`, `Git`, `GitHub Actions`
-- ☁️ Cloud: `AWS`, `Firebase`, `Vercel`
-
----
-
-### 📫 Let's Collaborate:
-> I'm open to freelance, remote jobs, OSS contributions, and tech talks.  
-Let’s build something awesome together! 🚀
-
----
-
-### 🏆 GitHub Trophy:
+### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nasif09&theme=tokyonight&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nasif09&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
 </p>
+
+---
+
+### 📽 Sample CI/CD or Project Demo (Optional GIF Section)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nasif09/Nasif09/main/devops-demo.gif" alt="CI/CD demo" width="700"/>
+</p>
+
+> ℹ️ Replace `devops-demo.gif` with your own screencast or DevOps setup GIF to showcase something awesome!
+
+---
+
+### 🤝 Let's Collaborate:
+> I'm open to freelance, remote opportunities, and contributions to exciting backend or DevOps projects.  
+Let’s build something impactful together! 🚀
 
 ---
