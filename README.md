@@ -1,101 +1,54 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Nasifur Rahman
-</h1>
-<h3 align="center">Backend Developer | MERN & ASP.NET Core | DevOps Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Nasifur Rahman</h1>
+<h3 align="center">A passionate Full Stack Developer (MERN & ASP.Net Core)</h3>
 
 ---
 
-### 👨‍💻 About Me
-
-<p align="center">
-  <strong>Backend Developer</strong> with a strong foundation in <code>MERN Stack</code> and <code>ASP.NET Core</code>.<br/>
-  Currently diving deeper into <strong>DevOps</strong> — mastering <code>Docker</code>, setting up <code>CI/CD</code> pipelines, and deploying systems on <code>AWS</code>.<br/>
-  Passionate about system design, API architecture, and clean, maintainable code.
-</p>
-
-<table align="center">
-  <tr>
-    <td><strong>💻 Tech Focus</strong></td>
-    <td>Node.js, .NET Core, MongoDB, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>🧰 DevOps</strong></td>
-    <td>Docker, GitHub Actions, AWS (EC2, S3), CI/CD</td>
-  </tr>
-  <tr>
-    <td><strong>📍 Location</strong></td>
-    <td>Bangladesh — Open to remote work</td>
-  </tr>
-  <tr>
-    <td><strong>📬 Contact</strong></td>
-    <td><a href="mailto:nasifurahman@gmail.com">nasifurahman@gmail.com</a></td>
-  </tr>
-</table>
+- 🔭 I’m currently working on **MERN Stack & ASP.Net Core Framework**
+- 🌱 I’m currently learning **Tailwind CSS & Next.js**
+- 💬 Ask me about **Web APIs, Backend Design, or Frontend Architecture**
+- 📫 Reach me at: **mdnasifurahman@gmail.com**
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://github.com/Nasif09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/iamnasifur/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools:
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.gif" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.gif" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.gif" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.gif" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
 </p>
 
 ---
 
-### 🧠 Currently Exploring:
-- 🔹 Docker containerization & orchestration  
-- 🔹 CI/CD pipelines with GitHub Actions  
-- 🔹 AWS (EC2, S3, Route53) deployment  
-- 🔹 Microservices & API Gateway patterns  
-- 🔹 Infrastructure as Code (Terraform – learning phase)  
+### 📊 GitHub Stats
 
----
-
-### 📊 GitHub Stats:
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&layout=compact&theme=tokyonight&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
-
----
-
-### 🔥 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasif09&theme=tokyo-night" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nasif09&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### 📽 Sample CI/CD or Project Demo (Optional GIF Section)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nasif09/Nasif09/main/devops-demo.gif" alt="CI/CD demo" width="700"/>
-</p>
-
-> ℹ️ Replace `devops-demo.gif` with your own screencast or DevOps setup GIF to showcase something awesome!
-
----
-
-### 🤝 Let's Collaborate:
-> I'm open to freelance, remote opportunities, and contributions to exciting backend or DevOps projects.  
-Let’s build something impactful together! 🚀
-
----
