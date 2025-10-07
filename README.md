@@ -36,7 +36,7 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/iamnasifur/" target="_blank">
+  <a href="https://www.linkedin.com/in/nasifrhman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -59,22 +59,22 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nasif09&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasif09&layout=compact&theme=tokyonight&langs_count=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nasifrhman&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifrhman&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
 
 ### 🔥 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasif09&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasifrhman&theme=tokyo-night" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nasif09&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nasifrhman&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
