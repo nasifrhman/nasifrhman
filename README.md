@@ -1,93 +1,57 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Nasifur Rahman
-</h1>
-<h3 align="center">Backend Developer | MERN & ASP.NET Core | DevOps Enthusiast</h3>
+## 👋 Hello, I'm Nasifur Rahman
+
+**Backend Developer | MERN & ASP.NET Core | DevOps Enthusiast**  
+
+I’m passionate about building scalable backend systems, designing clean APIs, and exploring DevOps for smooth deployments. Currently diving deeper into **Docker**, **CI/CD pipelines**, and **AWS**.  
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Tech Stack & Tools
+| Backend | Frontend | Database | DevOps & Tools |
+|---------|---------|---------|----------------|
+| Node.js, .NET Core, NestJS, Express | React, Next.js, TypeScript, JS, jQuery | MongoDB, PostgreSQL, MySQL, Firebase | Docker, GitHub Actions, AWS (EC2, S3, Route53), CI/CD, Postman, Git |
 
+---
+
+### 📍 Location
+Bangladesh — Open to remote work  
+
+### 📬 Contact
+[mdnasifurahman@gmail.com](mailto:mdnasifurahman@gmail.com)  
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasifrhman/)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <strong>Backend Developer</strong> with a strong foundation in <code>MERN Stack</code> and <code>ASP.NET Core</code>.<br/>
-  Currently diving deeper into <strong>DevOps</strong> — mastering <code>Docker</code>, setting up <code>CI/CD</code> pipelines, and deploying systems on <code>AWS</code>.<br/>
-  Passionate about system design, API architecture, and clean, maintainable code.
-</p>
-
-<table align="center">
-  <tr>
-    <td><strong>💻 Tech Focus</strong></td>
-    <td>Node.js, .NET Core, MongoDB, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>🧰 DevOps</strong></td>
-    <td>Docker, GitHub Actions, AWS (EC2, S3), CI/CD</td>
-  </tr>
-  <tr>
-    <td><strong>📍 Location</strong></td>
-    <td>Bangladesh — Open to remote work</td>
-  </tr>
-  <tr>
-    <td><strong>📬 Contact</strong></td>
-    <td><a href="mailto:mdnasifurahman@gmail.com">mdnasifurahman@gmail.com</a></td>
-  </tr>
-</table>
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/nasifrhman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" />
-</p>
-
----
-
-### 🧠 Currently Exploring:
-- 🔹 Docker containerization & orchestration  
-- 🔹 CI/CD pipelines with GitHub Actions  
-- 🔹 AWS (EC2, S3, Route53) deployment  
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nasifrhman&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifrhman&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
 
-### 🔥 Contribution Graph:
+### 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasifrhman&theme=tokyo-night" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nasifrhman&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-
-### 🤝 Let's Collaborate:
-> Let’s build something impactful together! 🚀
+### 🧠 Currently Exploring
+- Docker containerization & orchestration  
+- CI/CD pipelines with GitHub Actions  
+- AWS deployment (EC2, S3, Route53)
 
 ---
 
-
-
-
-
-
-
+### 🤝 Let’s Collaborate
+Building impactful systems together 🚀
