@@ -57,11 +57,9 @@
 
 ---
 
-### 🚀 Featured Projects:
-<p align="left">
-- **Service Booking App** – MERN & Node.js backend with payment integration  
-- **HR & Invoicing SaaS** – Node.js backend & Stripe subscription system  
-- **Gym Management App** – Multi-gym support with trainer-trainee sessions
+### 📊 Top Languages:
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifrhman&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
