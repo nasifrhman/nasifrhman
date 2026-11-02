@@ -56,9 +56,9 @@
 - 🔹 AWS (EC2, S3, Route53) deployment  
 
 ---
-
+<!-- 
 ### 📊 Top Languages:
-<!-- <p align="center">
+<p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifrhman&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
@@ -74,7 +74,7 @@
 ### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nasifrhman&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
-</p> -->
+</p> 
 
 ---
 
