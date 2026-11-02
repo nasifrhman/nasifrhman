@@ -1,6 +1,5 @@
-<h1 align="center">
-  Hi, I'm Nasifur Rahman
-</h1>
+# Hi, I'm Nasifur Rahman 👋
+
 <h3 align="center">Backend Developer | MERN & ASP.NET Core | DevOps Enthusiast</h3>
 
 ---
@@ -34,7 +33,8 @@
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/nasifrhman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -43,40 +43,57 @@
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" alt="Languages and Tools"/>
 </p>
 
 ---
 
-### 🧠 Currently Exploring:
-- 🔹 Docker containerization & orchestration  
-- 🔹 CI/CD pipelines with GitHub Actions  
-- 🔹 AWS (EC2, S3, Route53) deployment  
+### 🧠 Currently Exploring
+
+- 🔹 Docker containerization & orchestration
+- 🔹 CI/CD pipelines with GitHub Actions
+- 🔹 AWS (EC2, S3, Route53) deployment
 
 ---
 
-### 📊 Top Languages:
+### 📊 Top Languages
+
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifrhman&layout=compact&theme=tokyonight&langs_count=10" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nasifrhman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-### 🔥 Contribution Graph:
+### 🔥 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasifrhman&theme=tokyo-night" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nasifrhman&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasifrhman&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nasifrhman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 ---
 
-### 🤝 Let's Collaborate:
-> Let’s build something impactful together! 🚀
+### 🤝 Let's Collaborate
+
+> Let's build something impactful together! 🚀
