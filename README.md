@@ -45,7 +45,7 @@
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,react,nextjs,ts,js,jquery,php,mongodb,postgres,mysql,firebase,tailwind,bootstrap,git,github,postman,docker,aws,vscode,bash" />
 </p>
 
 ---
@@ -57,27 +57,24 @@
 
 ---
 
-### 📊 GitHub Stats & Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasifrhman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifrhman&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+### 📊 Top Languages:
+<!-- <p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifrhman&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
 
 ### 🔥 Contribution Graph:
 <p align="center">
-  <img src="https://svg.gh-activity.top/graph?username=nasifrhman&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasifrhman&theme=tokyo-night" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasifrhman&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=nasifrhman&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+</p> -->
 
 ---
 
